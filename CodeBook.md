@@ -1,4 +1,4 @@
-Introduction
+Getting and cleaning data - Introduction
 
 The script run_analysis.Rperforms the 5 steps described in the course project's definition.
 
