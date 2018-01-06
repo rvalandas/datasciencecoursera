@@ -1,4 +1,5 @@
 Data Science Coursera
+
 Getting and Cleaning Data - Course Project
 This folder has R code and documentation files for the Data Science's track course "Getting and Cleaning data", available in coursera.
 
